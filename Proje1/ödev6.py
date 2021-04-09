@@ -1,0 +1,6 @@
+kenar1=int(input("birinci sayıyı giriniz:"))
+kenar2=int(input("ikinci sayıyı giriniz:"))
+hipotenüs=((kenar1*kenar1)+(kenar2*kenar2))**(1/2)
+print("hipotenüs=",hipotenüs)
+hipotenüs2=(kenar1**2+kenar2**2)**(1/2)
+print("hipotenüs 2=",hipotenüs2)

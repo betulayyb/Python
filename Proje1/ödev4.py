@@ -1,0 +1,7 @@
+isminiz=input("Adınız:")
+Soyadiniz=input("Soyadınız:")
+Telefon_no=input("Telefon Numaranız:")
+print("isminiz:{}".format(isminiz))
+print("soyadınız:{}".format(Soyadiniz))
+print("Telefon Numaranız:{}".format(Telefon_no))
+print(isminiz,Soyadiniz,Telefon_no,sep="\n")
